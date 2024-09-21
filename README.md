@@ -4,6 +4,16 @@
 
 This project consists of adjusting the provided webpage for better accessability and readability. We explore and implement various practices that allow this webpage to be viewed by sight and hearing impaired individuals as well as making it screen reader compatible.
 
+**To view the webpage:**
+
+Clone the repository locally.
+
+Navigate to and open the cloned repository.
+
+Start the live preview plugin on VSCode or live preview plugin in your IDE of choice.
+
+Navigate to ```http://127.0.0.1:3000/index.html``` in your browser or view the webpage in the live preview window.
+
 ## Accessibility Lab Answers
 
 **Color:**
